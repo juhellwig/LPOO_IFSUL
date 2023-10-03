@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercicios.iml" filepath="$PROJECT_DIR$/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objetivo1_avaliacao1/objetivo1_avaliacao1.iml" filepath="$PROJECT_DIR$/objetivo1_avaliacao1/objetivo1_avaliacao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objetivo1_lista1/objetivo1_lista1.iml" filepath="$PROJECT_DIR$/objetivo1_lista1/objetivo1_lista1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objetivo1_lista2/objetivo1_lista2.iml" filepath="$PROJECT_DIR$/objetivo1_lista2/objetivo1_lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objetivo2_herMul_lista1/objetivo2_herMul_lista1.iml" filepath="$PROJECT_DIR$/objetivo2_herMul_lista1/objetivo2_herMul_lista1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objetivo2_herMul_lista2/objetivo2_herMul_lista2.iml" filepath="$PROJECT_DIR$/objetivo2_herMul_lista2/objetivo2_herMul_lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objetivo2_herSim_lista1/objetivo2_herSim_lista1.iml" filepath="$PROJECT_DIR$/objetivo2_herSim_lista1/objetivo2_herSim_lista1.iml" />
+    </modules>
+  </component>
+</project>
