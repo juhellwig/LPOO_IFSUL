@@ -12,7 +12,7 @@ public class Bicicleta extends Veiculo{
         this.tamanhoRoda = tamanhoRoda;
         this.chassi = chassi;
     }
-    //por que aqui nao sugeriu implementar get e set?
+    
     public int getTamanhoRoda() {
         return tamanhoRoda;
     }
