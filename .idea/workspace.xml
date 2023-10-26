@@ -5,88 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6122b027-a6bc-4b96-8354-536c17bd07b8" name="Changes" comment="up_1">
-      <change afterPath="$PROJECT_DIR$/objetivo2_avaliacao/objetivo2_avaliacao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo2_avaliacao/src/controller/SistemaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo2_avaliacao/src/model/Associado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo2_avaliacao/src/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo2_avaliacao/src/model/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo2_avaliacao/src/model/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo2_avaliacao/src/model/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Lógica de Programação Orientada a Objetos.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/objetivo3_avaliacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Fornecimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Tipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/objetivo3_lista1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/Aluno_DisciplinaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/Empresa_FuncionarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/VendasController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/ViagemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Corrida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Fornecimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Motorista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Veiculo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetivo1_avaliacao1/objetivo1_avaliacao1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo1_avaliacao/objetivo1_avaliacao.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetivo1_avaliacao1/src/controller/AlunoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo1_avaliacao/src/controller/AlunoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetivo1_avaliacao1/src/model/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo1_avaliacao/src/model/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/objetivo2_herMul_lista1/src/model/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo2_herMul_lista1/src/model/Bicicleta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/aula_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/exercicios_aula1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/controller/AutomovelController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/controller/ClienteController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/controller/LocacaoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/controller/MarcaController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/controller/ModeloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/model/Automovel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/model/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/model/Locacao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/model/Marca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_1/src/model/Modelo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/aula_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/lista3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/lista_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/src/controller/FuncionarioController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/src/model/Desenvolvedor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/src/model/DesenvolvedorJunior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/src/model/DesenvolvedorPleno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/src/model/DesenvolvedorSenior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/src/model/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/src/model/Gerente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/src/model/GerenteDesenvolvimento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/lista_3/src/model/GerenteGeral.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/out/production/lista3/controller/FuncionarioController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/out/production/lista3/model/Desenvolvedor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/out/production/lista3/model/DesenvolvedorJunior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/out/production/lista3/model/DesenvolvedorPleno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/out/production/lista3/model/DesenvolvedorSenior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/out/production/lista3/model/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/out/production/lista3/model/Gerente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/out/production/lista3/model/GerenteDesenvolvimento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/out/production/lista3/model/GerenteGeral.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/src/controller/ContaController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/src/model/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/src/model/ContaCorrente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_3/src/model/ContaPoupanca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/aula_4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/lista4/lista4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/lista4/src/model/Automovel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/lista4/src/model/Bicicleta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/lista4/src/model/Caminhao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/lista4/src/model/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/lista4/src/model/Veiculo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/src/controller/SicrediController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/src/model/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/src/model/Desenvolvedor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/src/model/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/src/model/Gerente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aula_4/src/model/Investidor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../avaliacao_1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../avaliacao_1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../avaliacao_1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../avaliacao_1/LPOO_Noturno_Juliana.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../avaliacao_1/avaliacao_1.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +51,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;juhellwig&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4b508898-55c7-4e44-8e50-56bfbde31c87" />
+        <option name="url" value="https://github.com/juhellwig/LPOO_IFSUL.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -125,7 +86,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/julia/Desktop/IFSul/2º Sem/Logica de Programação Orientada a Objetos/exercicios",
+    "last_opened_file_path": "C:/Users/julia/Desktop/bootcamp_santander/Bootcamp_Santander",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -155,6 +116,7 @@
       <workItem from="1696363370091" duration="756000" />
       <workItem from="1697220223662" duration="3644000" />
       <workItem from="1697393304630" duration="16203000" />
+      <workItem from="1698011042594" duration="2418000" />
     </task>
     <task id="LOCAL-00001" summary="up_1">
       <option name="closed" value="true" />
@@ -185,6 +147,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
