@@ -5,35 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6122b027-a6bc-4b96-8354-536c17bd07b8" name="Changes" comment="up_1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/objetivo3_avaliacao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Fornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Fornecimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Tipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/objetivo3_lista1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/Aluno_DisciplinaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/Empresa_FuncionarioController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/VendasController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/ViagemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Corrida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Disciplina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Fornecedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Fornecimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Motorista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Veiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/controller/VendasController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/EmpresaController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Fornecedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Fornecedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Fornecimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Fornecimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Tipo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_avaliacao/src/model/Vendedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/controller/Empresa_FuncionarioController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/controller/ViagemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_lista1/src/controller/ViagemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/model/Corrida.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Corrida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/model/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Empresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/model/Fornecedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Fornecedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/model/Fornecimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Fornecimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/model/Motorista.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Motorista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/model/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objetivo3_lista1/src/model/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/objetivo3_lista1/src/model/Veiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,27 +70,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/julia/Desktop/bootcamp_santander/Bootcamp_Santander",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Cliente/Desktop/Lógica de Programação Orientada a Objetos/LPOO_IFSUL/objetivo2_herMul_lista2/src/controller/UsuarioController.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/julia/Desktop/IFSul/2º Sem/Logica de Programação Orientada a Objetos/exercicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Cliente/Desktop/Lógica de Programação Orientada a Objetos/LPOO_IFSUL/objetivo2_herMul_lista2/src/controller/UsuarioController.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\julia\Desktop\IFSul\2º Sem\Logica de Programação Orientada a Objetos\exercicios\objetivo2_herMul_lista1\src" />
@@ -117,6 +110,11 @@
       <workItem from="1697220223662" duration="3644000" />
       <workItem from="1697393304630" duration="16203000" />
       <workItem from="1698011042594" duration="2418000" />
+      <workItem from="1698349903210" duration="137000" />
+      <workItem from="1698450842762" duration="3651000" />
+      <workItem from="1698454596873" duration="2157000" />
+      <workItem from="1698541732328" duration="2315000" />
+      <workItem from="1698627495772" duration="6671000" />
     </task>
     <task id="LOCAL-00001" summary="up_1">
       <option name="closed" value="true" />
@@ -142,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697399420892</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="up_1">
+      <option name="closed" value="true" />
+      <created>1698350003827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698350003827</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
