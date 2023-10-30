@@ -1,21 +1,23 @@
 package model;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Item {
     private int codItem;
     private double desconto;
     private int quantidade;
-    private Produto produto;
+    List<Produto> produtos = new ArrayList<>();
 
     public Item() {
         super();
     }
 
-    public Item(int codItem, double desconto, int quantidade, Produto produto) {
+    public Item(int codItem, double desconto, int quantidade) {
         super();
         this.codItem = codItem;
         this.desconto = desconto;
         this.quantidade = quantidade;
-        this.produto = produto;
     }
 
     public int getCodItem() {
@@ -42,12 +44,12 @@ public class Item {
         this.quantidade = quantidade;
     }
 
-    public Produto getProduto() {
-        return produto;
+    public List<Produto> getProdutos() {
+        return produtos;
     }
 
-    public void setProduto(Produto produto) {
-        this.produto = produto;
+    public void setProdutos(List<Produto> produtos) {
+        this.produtos = produtos;
     }
 
     @Override
@@ -56,7 +58,7 @@ public class Item {
                 "codItem=" + codItem +
                 ", desconto=" + desconto +
                 ", quantidade=" + quantidade +
-                ", produto=" + produto +
+                ", produto=" + produtos +
                 '}';
     }
 }

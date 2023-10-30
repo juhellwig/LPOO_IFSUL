@@ -7,7 +7,7 @@ public class Fornecedor {
     private int cnpj;
     private String contato;
     private String nome;
-    private List<Produto> produtos = new ArrayList<>();
+    List<Produto> produtos = new ArrayList<>();
 
     public Fornecedor() {
         super();

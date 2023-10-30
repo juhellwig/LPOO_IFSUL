@@ -5,19 +5,21 @@ public class Pedido {
     private String data;
     private double valor;
     private String status;
-    private Vendedor vendedor;
+    Vendedor vendedor;
+    Item item;
 
     public Pedido() {
         super();
     }
 
-    public Pedido(int numero, String data, double valor, String status, Vendedor vendedor) {
+    public Pedido(int numero, String data, double valor, String status, Vendedor vendedor, Item item) {
         super();
         this.numero = numero;
         this.data = data;
         this.valor = valor;
         this.status = status;
         this.vendedor = vendedor;
+        this.item = item;
     }
 
     public int getNumero() {
@@ -60,6 +62,14 @@ public class Pedido {
         this.vendedor = vendedor;
     }
 
+    public Item getItem() {
+        return item;
+    }
+
+    public void setItem(Item item) {
+        this.item = item;
+    }
+
     @Override
     public String toString() {
         return "\nPedido{" +
@@ -68,6 +78,7 @@ public class Pedido {
                 ", valor=" + valor +
                 ", status='" + status + '\'' +
                 ", vendedor=" + vendedor +
+                ", item=" + item +
                 '}';
     }
 }

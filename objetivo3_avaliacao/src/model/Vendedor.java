@@ -5,14 +5,14 @@ import java.util.List;
 
 public class Vendedor extends Funcionario {
     private String local;
-    private List<Pedido> pedidos = new ArrayList<>();
+    List<Pedido> pedidos = new ArrayList<>();
 
     public Vendedor() {
         super();
     }
 
     public Vendedor(int matricula, String nome, String endereco, String bairro, String cep, String cidade, String estado, String local) {
-        super();
+        super(matricula, nome, endereco, bairro, cep, cidade, estado);
         this.local = local;
     }
 

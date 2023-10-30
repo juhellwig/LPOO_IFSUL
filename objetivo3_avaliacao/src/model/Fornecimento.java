@@ -5,8 +5,8 @@ import java.util.Date;
 public class Fornecimento {
     private String data;
     private double valorTotal;
-    private Fornecedor fornecedor;
-    private Produto produto;
+    Fornecedor fornecedor;
+    Produto produto;
 
     public Fornecimento() {
         super();
