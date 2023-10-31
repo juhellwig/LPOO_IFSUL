@@ -7,6 +7,7 @@ public class Item {
     private int codItem;
     private double desconto;
     private int quantidade;
+    //private double totalItem;
     List<Produto> produtos = new ArrayList<>();
 
     public Item() {
@@ -18,6 +19,7 @@ public class Item {
         this.codItem = codItem;
         this.desconto = desconto;
         this.quantidade = quantidade;
+        //this.totalItem = totalItem;
     }
 
     public int getCodItem() {
@@ -44,6 +46,13 @@ public class Item {
         this.quantidade = quantidade;
     }
 
+//    public double getTotalItem() {
+//        return totalItem;
+//    }
+//    public void setTotalItem(double totalItem) {
+//        this.totalItem = totalItem;
+//    }
+
     public List<Produto> getProdutos() {
         return produtos;
     }
@@ -58,6 +67,7 @@ public class Item {
                 "codItem=" + codItem +
                 ", desconto=" + desconto +
                 ", quantidade=" + quantidade +
+                //", totalItem=" + totalItem +
                 ", produto=" + produtos +
                 '}';
     }
