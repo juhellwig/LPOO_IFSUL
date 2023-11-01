@@ -1,5 +1,6 @@
 package controller;
 
+import exceptions.EstoqueInsuficienteException;
 import model.*;
 
 import java.util.ArrayList;
@@ -54,7 +55,15 @@ public class VendasController {
 
         System.out.println(produtos);
 
+        mythrowException();
 
+    }
 
+    private static void mythrowException() {
+        try {
+            throw new EstoqueInsuficienteException("Erro, estoque insuficiente");
+        } catch (EstoqueInsuficienteException e) {
+            e.printStackTrace();
+        }
     }
 }

@@ -6,7 +6,7 @@ public class Corrida {
     private long id;
     private String tipoPagamento;
     private String detalhesPagamento;
-    private Date dataInicio;
+    private String dataInicio;
     private double preco;
     private int attribute9;
     private Usuario usuario;
@@ -16,7 +16,7 @@ public class Corrida {
         super();
     }
 
-    public Corrida(long id, String tipoPagamento, String detalhesPagamento, Date dataInicio, double preco, int attribute9, Usuario usuario, Motorista motorista) {
+    public Corrida(long id, String tipoPagamento, String detalhesPagamento, String dataInicio, double preco, int attribute9, Usuario usuario, Motorista motorista) {
         super();
         this.id = id;
         this.tipoPagamento = tipoPagamento;
@@ -52,11 +52,11 @@ public class Corrida {
         this.detalhesPagamento = detalhesPagamento;
     }
 
-    public Date getDataInicio() {
+    public String getDataInicio() {
         return dataInicio;
     }
 
-    public void setDataInicio(Date dataInicio) {
+    public void setDataInicio(String dataInicio) {
         this.dataInicio = dataInicio;
     }
 

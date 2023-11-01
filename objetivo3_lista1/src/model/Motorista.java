@@ -15,7 +15,7 @@ public class Motorista {
         super();
     }
 
-    public Motorista(long id, String nome, String email, String telefone, List<Corrida> corridas, Veiculo veiculo) {
+    public Motorista(long id, String nome, String email, String telefone, Veiculo veiculo) {
         super();
         this.id = id;
         this.nome = nome;

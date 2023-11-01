@@ -15,7 +15,7 @@ public class Veiculo {
         super();
     }
 
-    public Veiculo(long id, String tipo, String placa, int anoFabricacao, Motorista motorista) {
+    public Veiculo(long id, String tipo, String placa, int anoFabricacao) {
         super();
         this.id = id;
         this.tipo = tipo;

@@ -13,7 +13,7 @@ public class Empresa {
         super();
     }
 
-    public Empresa(String cnpj, String razaoSocial, String nomeFantasia, List<Funcionario> funcionarios) {
+    public Empresa(String cnpj, String razaoSocial, String nomeFantasia) {
         super();
         this.cnpj = cnpj;
         this.razaoSocial = razaoSocial;

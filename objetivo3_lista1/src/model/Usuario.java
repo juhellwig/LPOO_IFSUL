@@ -14,7 +14,7 @@ public class Usuario {
         super();
     }
 
-    public Usuario(long id, String nome, String email, String telefone, List<Corrida> corridas) {
+    public Usuario(long id, String nome, String email, String telefone) {
         super();
         this.id = id;
         this.nome = nome;
@@ -64,12 +64,11 @@ public class Usuario {
 
     @Override
     public String toString() {
-        return "\nUsuario{" +
+        return "Usuario{" +
                 "id=" + id +
                 ", nome='" + nome + '\'' +
                 ", email='" + email + '\'' +
                 ", telefone='" + telefone + '\'' +
-                ", corridas=" + corridas +
                 '}';
     }
 }
